@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sandra Santos
+# 👩🏼‍💻 Sandra Santos
 
 **`Desenvolvedora Fron-End`**
 
